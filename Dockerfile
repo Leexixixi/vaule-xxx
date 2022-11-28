@@ -1,1 +1,1 @@
-FROM ghcr.io/banzaicloud/vault-env:1.14.3@sha256:b6f95cdd53f86d04ae58317103e10e7a81886a546ebb112167e4a5ea2fcb3122
+FROM ghcr.io/banzaicloud/vault-secrets-webhook:1.14.3@sha256:169c37d8718547474d75d40b36eab9e09d3f198c0dd3860f2ba6246f656a6915
