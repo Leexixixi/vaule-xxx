@@ -1,2 +1,2 @@
 #FROM ghcr.io/banzaicloud/vault-secrets-webhook:1.14.3@sha256:169c37d8718547474d75d40b36eab9e09d3f198c0dd3860f2ba6246f656a6915
-FROM openzipkin/zipkin-dependencies:latest-arm64
+FROM openzipkin/zipkin-dependencies:latest@sha256:d89ee02488af309973e77558cb6a12a254d958995971bc2cc7bd457af89645c3
